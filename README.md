@@ -1,2 +1,2 @@
 # greenhouse
-automatic greenhouse with a Raspberry Pi and Makeblock Union
+automatic greenhouse with a Raspberry Pi and Makeblock Orion
