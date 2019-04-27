@@ -15,3 +15,6 @@ select * from enviroment;
 -----------------------------------------------
 | YYYY-MM-DD HH-MM-SS |xx          |xx        |
 -----------------------------------------------
+
+# waarden.php
+bestand toont de waarden van database via internet
