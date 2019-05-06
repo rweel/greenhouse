@@ -14,10 +14,10 @@ date = (datetime.datetime.now().strftime("%d-%m-20%y"))
 time = (datetime.datetime.now().strftime("%H:%M"))
 
 # key ophalen bij https://home.openweathermap.org/api_keys
-key = "233701779ae96b795e27bee825342a90"
+key = " // key here // "
 
 # plaats
-place = "Lutjebroek"
+place = " // place here // "
 
 # bron is openweathermap.org
 url = "http://api.openweathermap.org/data/2.5/weather?q=" + place + "&appid=" + key + "&units=metric"
